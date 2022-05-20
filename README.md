@@ -1,6 +1,6 @@
 # repository-demo
 
-First repository i have created to learn
+First repository i have created
 
 It's just for fun!
 
